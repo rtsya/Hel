@@ -31,6 +31,10 @@
       "description": "توكن بوتك ضعه هنا",
       "value": ""
     },
+    "TG_BOT_USERNAME": {
+      "description": "معرف بوتك ضعه هنا بدون @",
+      "value": ""
+    },
     "COMMAND_HAND_LER": {
       "description": "اتـركة لاتغيـره",
       "value": ".",
